@@ -1,6 +1,6 @@
 # Khorallys-21 Savage Demo - Code Lyoko version
 
-Welcome to my Savage Demo APP! I added a code lyoko theme to add some originality. Here, users can add a message, then give it a thumbs up, thumbs down, or like it. Check out the live versione [here](https://savagecodelyoko.herokuapp.com/)
+Welcome to my Savage Demo APP! I added a code lyoko theme to add some originality. Here, users can add a message, then give it a thumbs up, thumbs down, or like it. Check out the live version [here](https://savagecodelyoko.herokuapp.com/)
 
 ![To-Do List Express](background2.jpg)
 
